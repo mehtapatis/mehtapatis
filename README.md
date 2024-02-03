@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mehtapatis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mehtap
+- 🎓 Bachelor's Degree in Mathematical Sciences, Namık Kemal University
+- 🏆  Front end developer Certificate, Udemy
+- 💻 Technologies I use:  html ,css ,JavaScript, React 
+- 📫 How to reach me atismehtap199@gmail.com
+- [Instagram](https://www.instagram.com/mmehtapatis/)
 
-<!---
-mehtapatis/mehtapatis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
